@@ -1,1 +1,1 @@
-//your JS code here. If required.
+console.log("AccioJob Blog page loaded successfully!");
